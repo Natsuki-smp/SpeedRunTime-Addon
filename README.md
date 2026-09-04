@@ -9,9 +9,6 @@ Add-On สำหรับ Speedrun Minecraft Bedrock
 ดาวน์โหลดเวอร์ชันล่าสุดได้จากหน้า Releases
 
 ## ✨ Features
-
-- ⏱️ Shared RTA Timer
-- 👥 ผู้เล่นทุกคนใช้เวลา RTA ร่วมกัน
 - 🏃 Speedrun System
 - 🐉 ระบบจับเวลาการจบเกม
 
