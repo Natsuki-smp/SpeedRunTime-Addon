@@ -1,13 +1,4 @@
 import { world, system } from "@minecraft/server";
-
-/**
- * Speed Run — เปิด End Portal อัตโนมัติ + ตัวจับเวลาสปีดรันปราบมังกร
- * - แตะ End Portal Frame บล็อกไหนก็ได้ / เดินเข้ามาในระยะ 40 บล็อก -> วาง Eye of Ender ครบ 12 ช่องอัตโนมัติ
- * - ตัวจับเวลาในตัว: เริ่มนับเมื่อผู้เล่นขยับตัวครั้งแรก, หยุดทันทีที่ Ender Dragon ตาย
- * - ใช้แค่ @minecraft/server (stable API) + metadata.product_type = "addon" -> ไม่ปิด Achievements
- *   (ต้องไม่เปิด Cheats / Experimental toggles ในโลก)
- */
-
 // ---------- ระบบ End Portal ถูกนำออกแล้ว ----------
 // แอดออนนี้จะไม่เปิดหรือปลดล็อกประตู The End อัตโนมัติ
 
