@@ -11,7 +11,7 @@ Add-On สำหรับ Speedrun Minecraft Bedrock
 ## ✨ Features
 - 🏃 Speedrun System
 - 🐉 ระบบจับเวลาการจบเกม
-
+- Speed Run Time RTA & IGT
 ---
 
 Made by natsukismp
